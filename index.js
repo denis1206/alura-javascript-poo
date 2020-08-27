@@ -23,4 +23,4 @@ contaCorrenteDenis.depositar(500);
 contaCorrenteDenis.transferir(200, conta2);
 
 console.log(contaCorrenteDenis);
-console.log(conta2);
+console.log(conta2.saldo);
