@@ -37,7 +37,7 @@ export class Conta{
     }
 
     depositar(valor){
-        if(valor <= 100){
+        if(valor <= 0){
             return;
         }
 
